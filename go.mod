@@ -1,0 +1,1 @@
+module "github.com/gopher-id/hello-world"
